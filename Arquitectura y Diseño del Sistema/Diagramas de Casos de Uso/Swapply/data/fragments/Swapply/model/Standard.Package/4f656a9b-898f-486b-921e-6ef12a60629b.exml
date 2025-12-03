@@ -26,6 +26,7 @@
         <COMPID name="Pagar con SwapCoins" mc="Standard.UseCase" uid="59d8ff95-c727-4a64-9ea6-07e31cdf7dc0"/>
         <COMPID name="Confirmar Recepción" mc="Standard.UseCase" uid="fdca517a-9a80-47ce-8df2-c153b2705d6c"/>
         <COMPID name="Abrir Disputa" mc="Standard.UseCase" uid="38d15a50-33cb-483b-a988-54b28e0d8d66"/>
+        <COMPID name="Navegar" mc="Standard.UseCase" uid="bd752961-9098-4e9f-b998-88ff773ab920"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Subsistemas de Transacción y Matching Use Case diagram" mc="Standard.UseCaseDiagram" uid="49c6d6f0-01e8-4188-98b1-82eaa73d90b6"/>
